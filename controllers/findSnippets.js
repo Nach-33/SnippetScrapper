@@ -15,12 +15,13 @@ const findSnippets = async (req, res) => {
     res.status(500).json({ message: "Internal Server Error" });
   }
 };
+
 const getAllSnippets = async (req, res) => {
   try {
     const allUsers = await User.find();
     const allSnippets = allUsers.map((user) => {
       return user.public;
-    });
+    }).flat();
     const responsePayload = {
       statusCode: 200,
       message: "Success",
@@ -33,4 +34,4 @@ const getAllSnippets = async (req, res) => {
   }
 };
 
-module.exports = {findSnippets, getAllSnippets};
+module.exports = { findSnippets, getAllSnippets };
