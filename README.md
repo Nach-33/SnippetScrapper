@@ -7,17 +7,18 @@
 </ul>
 
 <h3>Problem Statement: </h3>
-<h4>Designing a Snippet Manager API</h4>
+<h4>Designing a Snippet Manager API.</h4>
+<hr/>
 <h4>Link To Collection: <a href="https://www.postman.com/warped-desert-963349/workspace/api-sprint-snippetscrapper/collection/21569191-0bed227a-e423-4c69-9622-6f7aa1b7f32f?action=share&creator=21569191">POSTMAN</a></h4>
-<br />
-<h4>Features: </h4>
+<hr/>
+<h3>Features: </h3>
 <ul>
-<li><h3>Create a User</h3></li>
-<li><h3>Create a Snippet [Public/Private]</h3></li>
-<li><h3>Update a Snippet</h3></li>
-<li><h3>Browse Global Snippets</h3></li>
-<li><h3>Call Code from Snippet Keyword</h3></li>
-<li><h3>Import and Export Snippet</h3></li>
+<li><h4>Create a User</h4></li>
+<li><h4>Create a Snippet [Public/Private]</h4></li>
+<li><h4>Update a Snippet</h4></li>
+<li><h4>Browse Global Snippets</h4></li>
+<li><h4>Call Code from Snippet Keyword</h4></li>
+<li><h4>Import and Export Snippet</h4></li>
 </ul>
 
 
