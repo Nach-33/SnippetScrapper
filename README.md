@@ -10,6 +10,7 @@
 <h4>Designing a Snippet Manager API</h4>
 <h4>Link To Collection: <a href="https://www.postman.com/warped-desert-963349/workspace/api-sprint-snippetscrapper/collection/21569191-0bed227a-e423-4c69-9622-6f7aa1b7f32f?action=share&creator=21569191">POSTMAN</a></h4>
 <br />
+<h4>Features: </h4>
 <ul>
 <li><h3>Create a User</h3></li>
 <li><h3>Create a Snippet [Public/Private]</h3></li>
