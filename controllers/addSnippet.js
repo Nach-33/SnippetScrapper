@@ -1,13 +1,5 @@
 const User = require("../models/user");
 
-// {
-//     category:Array(string),
-//     keyword: string,
-//     code:Array(string),
-//     scope:string,
-//     description:string
-// }
-
 const addSnippet = async (req, res) => {
     const {status, username, category, keyword, code, scope, description} = req.body;
     try {
